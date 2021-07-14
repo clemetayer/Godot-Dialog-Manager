@@ -1,0 +1,44 @@
+{
+	"res://tests/DialogBox.test.gd": {
+		"path": "res://tests/DialogBox.test.gd",
+		"tags": [
+
+		],
+		"passing": true
+	},
+	"res://tests/DialogBoxChoices.test.gd": {
+		"path": "res://tests/DialogBoxChoices.test.gd",
+		"tags": [
+
+		],
+		"passing": true
+	},
+	"res://tests/DialogNode.test.gd": {
+		"path": "res://tests/DialogNode.test.gd",
+		"tags": [
+
+		],
+		"passing": true
+	},
+	"res://tests/DialogNodeCancel.test.gd": {
+		"path": "res://tests/DialogNodeCancel.test.gd",
+		"tags": [
+
+		],
+		"passing": true
+	},
+	"res://tests/DialogNodeChoices.test.gd": {
+		"path": "res://tests/DialogNodeChoices.test.gd",
+		"tags": [
+
+		],
+		"passing": true
+	},
+	"res://tests/DialogTree.test.gd": {
+		"path": "res://tests/DialogTree.test.gd",
+		"tags": [
+
+		],
+		"passing": true
+	}
+}
